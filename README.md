@@ -1,6 +1,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/WTZ6666/Video-Dynamic-Scene-Graph-Generation/graphs/commit-activity)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/WTZ6666/Video-Dynamic-Scene-Graph-Generation)
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models?style=social"> <img alt="GitHub stars" src="https://img.shields.io/github/stars/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models?style=social">
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/WTZ6666/Video-Dynamic-Scene-Graph-Generation?style=social"> <img alt="GitHub stars" src="https://img.shields.io/github/stars/WTZ6666/Video-Dynamic-Scene-Graph-Generation?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/WTZ6666/Video-Dynamic-Scene-Graph-Generation?style=social">
 
 # <p align=center>`Video/Dynamic Scene Graph Generation`</p>
 
